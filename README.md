@@ -152,5 +152,5 @@ MIT License
 
 ## 👤 Author
 
-산업IT공학(ITM) | 데이터 사이언스 & AI 플랫폼 개발 지향
+산업IT공학(ITM) | Son Jaemin
 
