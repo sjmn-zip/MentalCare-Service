@@ -2,7 +2,7 @@
 
 > 감정 분류기와 위기 탐지 게이트를 결합한 안전 우선(safety-first) 멘탈케어 챗봇
 
-> 다온이란? 순우리말로 좋은 일이 다 온다.
+> 다온이란? 순우리말: 좋은 일이 다 온다.
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)]()
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.11x-green.svg)]()
